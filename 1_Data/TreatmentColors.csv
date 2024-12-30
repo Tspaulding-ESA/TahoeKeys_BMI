@@ -1,0 +1,10 @@
+trt_cmt,herbicide,red,green,blue,color_cmt,trt,site_label
+Control,None,0,112,192,#0070C0,Control,"Sites 16, 17, 18"
+Herbicide,Endothall,255,69,0,#FF4500,Endothall,"Sites 1, 2, 3"
+Combo,Endothall,255,189,49,#FFBD31,Endothall + UV,"Sites 10, 11, 15"
+Herbicide,Triclopyr,0,102,0,#006600,Triclopyr,"Sites 5, 8, 9"
+Combo,Triclopyr,147,197,114,#93C572,Triclopyr + UV,"Sites 12, 13, 14"
+Combo,Triclopyr,147,197,114,#93C572,Triclopyr + UV*,Site 12
+UV-C,None,248,58,239,#F83AEF,UV,"Sites 22, 23, 24"
+Control,None,0,112,192,#0070C0,Control - LFA,Site 7
+LFA,None,138,60,196,#8A3CC4,LFA,Site 26

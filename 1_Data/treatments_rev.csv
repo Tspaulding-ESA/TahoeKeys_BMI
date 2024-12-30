@@ -1,0 +1,76 @@
+area,site,year,treatment
+West Lagoon,1,2022,Endothall
+West Lagoon,2,2022,Endothall
+West Lagoon,3,2022,Endothall
+West Lagoon,5,2022,Triclopyr
+West Lagoon,8,2022,Triclopyr
+West Lagoon,9,2022,Triclopyr
+West Lagoon,10,2022,Endothall + UV
+West Lagoon,11,2022,Endothall + UV
+West Lagoon,12,2022,Triclopyr + UV*
+West Lagoon,13,2022,Triclopyr + UV
+West Lagoon,14,2022,Triclopyr + UV
+West Lagoon,15,2022,Endothall + UV
+West Lagoon,16,2022,Control
+West Lagoon,17,2022,Control
+West Lagoon,18,2022,Control
+West Lagoon,22,2022,UV
+West Lagoon,23,2022,UV
+West Lagoon,24,2022,UV
+West Lagoon,25,2022,LFA
+West Lagoon,26,2022,LFA
+West Lagoon,7,2022,Control - LFA
+Lake Tallac,19,2022,Endothall
+Lake Tallac,20,2022,Control
+Lake Tallac,21,2022,
+Lake Tallac,27,2022,LFA
+West Lagoon,1,2023,Endothall
+West Lagoon,2,2023,Endothall
+West Lagoon,3,2023,Endothall
+West Lagoon,5,2023,Triclopyr
+West Lagoon,8,2023,Triclopyr
+West Lagoon,9,2023,Triclopyr
+West Lagoon,10,2023,Endothall + UV
+West Lagoon,11,2023,Endothall + UV
+West Lagoon,12,2023,Triclopyr + UV*
+West Lagoon,13,2023,Triclopyr + UV
+West Lagoon,14,2023,Triclopyr + UV
+West Lagoon,15,2023,Endothall + UV
+West Lagoon,16,2023,Control
+West Lagoon,17,2023,Control
+West Lagoon,18,2023,Control
+West Lagoon,22,2023,UV
+West Lagoon,23,2023,UV
+West Lagoon,24,2023,UV
+West Lagoon,25,2023,LFA
+West Lagoon,26,2023,LFA
+West Lagoon,7,2023,Control - LFA
+Lake Tallac,19,2023,Endothall
+Lake Tallac,20,2023,Control
+Lake Tallac,21,2023,
+Lake Tallac,27,2023,LFA
+West Lagoon,1,2024,Endothall
+West Lagoon,2,2024,Endothall
+West Lagoon,3,2024,Endothall
+West Lagoon,5,2024,Triclopyr
+West Lagoon,8,2024,Triclopyr
+West Lagoon,9,2024,Triclopyr
+West Lagoon,10,2024,Endothall + UV
+West Lagoon,11,2024,Endothall + UV
+West Lagoon,12,2024,Triclopyr + UV*
+West Lagoon,13,2024,Triclopyr + UV
+West Lagoon,14,2024,Triclopyr + UV
+West Lagoon,15,2024,Endothall + UV
+West Lagoon,16,2024,Control
+West Lagoon,17,2024,Control
+West Lagoon,18,2024,Control
+West Lagoon,22,2024,UV
+West Lagoon,23,2024,UV
+West Lagoon,24,2024,UV
+West Lagoon,25,2024,LFA
+West Lagoon,26,2024,LFA
+West Lagoon,7,2024,Control - LFA
+Lake Tallac,19,2024,Endothall
+Lake Tallac,20,2024,Control
+Lake Tallac,21,2024,
+Lake Tallac,27,2024,LFA
